@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android 3 - MVVM part 2, ActivityViewModels</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+</resources>
